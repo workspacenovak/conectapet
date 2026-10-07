@@ -114,7 +114,7 @@ function Index() {
               A proposta é aproximar marcas de um novo mercado e criar oportunidades reais de crescimento e parceria.
             </p>
             <ul className="mt-8 space-y-3">
-              {["Para marcas de produtos para animais", "Interessadas em expandir para o Amazonas", "Abertas a construir uma parceria"].map((t) => (
+              {["Para marcas de produtos para animais", "Interessadas em expandir para a região norte", "Abertas a construir uma parceria"].map((t) => (
                 <li key={t} className="flex items-center gap-3 font-medium text-ink">
                   <span className="grid h-6 w-6 place-items-center rounded-full bg-brand-soft text-xs text-brand">✓</span>{t}
                 </li>
