@@ -4,7 +4,7 @@ import heroImg from "@/assets/hero.jpg";
 import amazonImg from "@/assets/amazon.jpg";
 import logoImg from "@/assets/logo.png";
 
-const EMAIL = "conectapet_amazonas@gmail.com";
+const EMAIL = "conectapet.amazonas@gmail.com";
 
 export const Route = createFileRoute("/")({
   head: () => ({
