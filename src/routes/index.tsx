@@ -10,7 +10,7 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "Conecta Pet — Leve sua marca pet ao Amazonas" },
-      { name: "description", content: "A Conecta Pet busca novas marcas de produtos para animais interessadas em expandir sua presença para o mercado do Amazonas." },
+      { name: "description", content: "A Conecta Pet busca novas marcas de produtos para animais interessadas em expandir sua presença para a região norte." },
       { property: "og:title", content: "Conecta Pet — Leve sua marca pet ao Amazonas" },
       { property: "og:description", content: "Seja parceiro da Conecta Pet e expanda sua marca para o mercado amazonense." },
       { property: "og:type", content: "website" },
@@ -82,7 +82,7 @@ function Index() {
               Sua marca pode chegar <span className="text-brand">ainda mais longe.</span>
             </h1>
             <p className="mt-6 max-w-lg text-lg leading-relaxed text-muted-foreground">
-              A Conecta Pet busca novas marcas interessadas em expandir sua presença e levar seus produtos para o mercado do Amazonas.
+              A Conecta Pet busca novas marcas interessadas em expandir sua presença e levar seus produtos para a região norte.
             </p>
           </div>
           <div className="reveal relative" style={{ animationDelay: "0.15s" }}>
@@ -108,7 +108,7 @@ function Index() {
             <Eyebrow>A oportunidade</Eyebrow>
             <h2 className="mt-4 text-3xl font-semibold text-ink sm:text-4xl">Novas marcas, novas oportunidades</h2>
             <p className="mt-5 text-lg leading-relaxed text-muted-foreground">
-              A Conecta Pet está buscando novas marcas e produtos para ampliar seu portfólio e trazer novas opções para o mercado do Amazonas.
+              A Conecta Pet está buscando novas marcas e produtos para ampliar seu portfólio e trazer novas opções para a região norte.
             </p>
             <p className="mt-4 leading-relaxed text-muted-foreground">
               A proposta é aproximar marcas de um novo mercado e criar oportunidades reais de crescimento e parceria.
