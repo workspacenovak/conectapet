@@ -153,7 +153,7 @@ function Index() {
           <div className="absolute -left-20 -top-20 h-64 w-64 rounded-full bg-primary-foreground/10" />
           <div className="absolute -bottom-24 -right-10 h-72 w-72 rounded-full bg-primary-foreground/10" />
           <div className="relative">
-            <h2 className="mx-auto max-w-3xl text-3xl font-semibold sm:text-5xl">Tem uma marca pet e quer expandir para o Amazonas?</h2>
+            <h2 className="mx-auto max-w-3xl text-3xl font-semibold sm:text-5xl">Tem uma marca pet e quer expandir para a região Norte?</h2>
             <p className="mx-auto mt-6 max-w-2xl text-lg text-primary-foreground/85">
               Entre em contato com a Conecta Pet e apresente sua marca. A empresa está aberta a conhecer novas marcas e produtos que possam fazer parte desse projeto.
             </p>
